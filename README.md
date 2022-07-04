@@ -1,2 +1,3 @@
 # Govt-Data-Quant
   I initially picked this dataset because I assumed it would have lots of interesting data due to its large size. I found this specific column interesting because many high-schoolers work jobs, whether to support their family or to earn some extra money. I assume working a copius can affect ones ability as student, and although this data in particular does not provide that information, it could be interesting to look into in the future. The mean of the data was 10.7, the median was -7, and the standard deviation was 20.7. There is likely some error in the computing or the data, as it is improbable that there is a negitive median (you cant work negitive hours).
+The Govt-Data Quantitative is the correct file, I do not know how to delete the other one.
